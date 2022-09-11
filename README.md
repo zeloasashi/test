@@ -1,2 +1,2 @@
-# idk
+# first class
 test
